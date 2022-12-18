@@ -1,1 +1,1 @@
-https://salt-upon-wounds.github.io/rsschool-cv/cv
+https://salt-upon-wounds.github.io/rsschool-cv/
