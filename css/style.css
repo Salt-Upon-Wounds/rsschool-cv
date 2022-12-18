@@ -67,3 +67,18 @@ img {
     max-width: 100%;
     height: auto;
 }
+.title {
+    position: relative;
+    background-color: #C9C9C9;
+    color: #000;
+    padding-left: 30px;
+}
+.title::before {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #f2c100;
+}
