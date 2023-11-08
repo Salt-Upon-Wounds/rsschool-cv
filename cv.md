@@ -9,9 +9,8 @@
 
 ## About me
 
-I want to improve my knowledge about js, html, css with help of mentor + practice.   
-And it will be perfect for if mentor will offer me a position in his company,  
-because its hard to start for a junior nowadays.
+I want to improve my knowledge of js, html, css with help of mentor + practice.
+As a final goal I see getting a new job as a junior fullstack developer.
 
 ## Code Example
 
@@ -32,7 +31,7 @@ Tech stack: php, laravel, mysql, js, html, css, bootstrap, jquery
 
 ## Education
 
-BSUIR(4th year)
+BSUIR bachelor
 
 ## Languages
 
